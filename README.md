@@ -12,4 +12,4 @@ The main function of this project is to share a Christmas message that has anima
 * `JavaScript:` Dynamicity of the page
 
 # 📁 Project access
-You can [access the source code](https://github.com/ArturColen/ChristmasCard) or [view the hosted page](https://arturcolen.github.io/ChristmasCard/).
+You can [access the source code](https://github.com/ArturColen/ChristmasCard) or [view the hosted page](https://christmascard.surge.sh).
