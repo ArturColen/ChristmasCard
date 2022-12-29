@@ -1,11 +1,11 @@
-setInterval(snowFlake, 50)
+setInterval(snowFlake, 50);
 
 // Function responsible for making the snowflakes dynamic
 function snowFlake(){
-    const snowFlake = document.createElement('i')
+    const snowFlake = document.createElement('i');
 
-    snowFlake.classList.add('fas')
-    snowFlake.classList.add('fa-snowflake')
+    snowFlake.classList.add('fas');
+    snowFlake.classList.add('fa-snowflake');
     snowFlake.style.left = Math.random()*(window.innerWidth-25) + 'px';
     snowFlake.style.animationDuration = Math.random()*3+2+'s';
     snowFlake.style.opacity = Math.random();
@@ -13,9 +13,9 @@ function snowFlake(){
 
     document.body.appendChild(snowFlake);
 
-    setTimeout(()=>{
-        snowFlake.remove()
-    }, 2000)
+    setTimeout( () => {
+        snowFlake.remove();
+    }, 2000);
 }
 
 var counter = 1;
