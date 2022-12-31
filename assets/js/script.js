@@ -1,6 +1,6 @@
 setInterval(snowFlake, 50);
 
-// Function responsible for making the snowflakes dynamic
+// Making the snowflakes dynamic
 function snowFlake(){
     const snowFlake = document.createElement('i');
 
@@ -20,11 +20,11 @@ function snowFlake(){
 
 var counter = 1;
 
-// Function for switching slides
+// Change slides
 setInterval(function() {
     document.querySelector('#radio'+counter).checked = true;
     counter++;
     if(counter > 2){
         counter = 1;
     }
-}, 10000)
+}, 10000);
