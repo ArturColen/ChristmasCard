@@ -13,3 +13,5 @@ The main function of this project is to share a Christmas message that has anima
 
 # 📁 Project access
 You can [access the source code](https://github.com/ArturColen/ChristmasCard) or [view the hosted page](https://arturcolen.github.io/ChristmasCard/).
+
+**Observation:** This program is designed to be accessed on computers (it is not responsive), so if it is used on mobile devices, the page layout will be misconfigured and some functions will not run.
