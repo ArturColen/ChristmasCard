@@ -7,9 +7,9 @@ Project developed in Christmas 2021 to be able to send this message to my friend
 The main function of this project is to share a Christmas message that has animation and dynamicity.
 
 ## 💻 Technologies used 
-* `HTML:` Page structuring, accessibility and semantics
-* `CSS:` Page styling and animation
-* `JavaScript:` Dynamicity of the page
+* [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML): Page structuring, accessibility and semantics
+* [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS): Page styling and animation
+* [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript): Dynamicity of the page
 
 ## 📁 Project access
 You can view the hosted page by clicking [here](https://arturcolen.github.io/ChristmasCard/).
