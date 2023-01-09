@@ -7,7 +7,7 @@ Project developed in Christmas 2021 to be able to send this message to my friend
 ## 🔨 Project functionality
 The main function of this project is to share a Christmas message that has animation and dynamicity.
 
-# 💻 Technologies and techniques used 
+## 💻 Technologies and techniques used 
 * `HTML:` Page structuring, accessibility and semantics
 * `CSS:` Page styling and animation
 * `JavaScript:` Dynamicity of the page
